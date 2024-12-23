@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #fdf0d5;
+    color: #003049;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+
+
+
+#container{
+    border: 2px solid red;
+    width:90%;
+    max-width: 450px;
+    text-align: center;
+    padding:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
